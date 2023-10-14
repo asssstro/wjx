@@ -1,18 +1,46 @@
 [
     {
-        "key": "学院名称",
-        "content": "学院"
-    },
-    {
-        "key": "学号",
-        "content": "1101"
-    },
-    {
-        "key": "姓名",
-        "content": "张三"
+        "key": "院系",
+        "content": "元培学院"
     },
     {
         "key": "专业",
-        "content": "营销"
+        "content": "元培学院"
+    }
+    {
+        "key": "学号",
+        "content": "2200017723"
+    },
+    {
+        "key": "姓名",
+        "content": "毛宇航"
+    },
+    {
+        "key": "名字",
+        "content": "毛宇航"
+    },
+    {
+        "key": "电话",
+        "content": "15173173227"
+    },
+    {
+        "key": "手机",
+        "content": "15173173227"
+    },
+    {
+        "key": "微信号",
+        "content": "15173173227"
+    },
+    {
+        "key": "邮件",
+        "content": "2200017723@stu.pku.edu.cn"
+    },
+    {
+        "key": "邮箱",
+        "content": "2200017723@stu.pku.edu.cn"
+    },
+    {
+        "key": "性别",
+        "content": "男"
     }
 ]
